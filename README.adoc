@@ -1,0 +1,5 @@
+= iPix Warm-Up
+
+See `12-fhnw-ivis-exercises-ipix-warmup.pdf` for instructions.
+
+Example brain MRI: Case courtesy of A.Prof Frank Gaillard, https://radiopaedia.org[Radiopaedia.org], https://radiopaedia.org/cases/37605[rID: 37605]
