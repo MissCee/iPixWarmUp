@@ -1,5 +1,9 @@
-= iPix Warm-Up
+== iPix Warm-Up
 
-See `12-fhnw-ivis-exercises-ipix-warmup.pdf` for instructions.
+A stepwise introduction towards an interactive visualization that allows exploring pixels of a bitmap image.
+
+See course slides and javadoc for details.
+
+== Credits
 
 Example brain MRI: Case courtesy of A.Prof Frank Gaillard, https://radiopaedia.org[Radiopaedia.org], https://radiopaedia.org/cases/37605[rID: 37605]
